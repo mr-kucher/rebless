@@ -1,0 +1,25 @@
+{
+    "name": "Gerald Baker",
+    "age": 15,
+    "address": {
+        "street": "Peter Estates",
+        "city": "Harperchester",
+        "state": "Missouri",
+        "zip": "12706"
+    },
+    "contact": {
+        "phone": "264.952.7638x142",
+        "servicePhone": "800120937"
+    },
+    "birthday": "2010-13-06",
+    "ip": "89.203.237.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Hit democratic next method. International speak whatever final.\nClass talk manage show team control need. Only senior attorney. Manager money yard chair tough never alone.",
+        "bio": "Program note success produce spring even individual.\nCould consumer window me already do. Open play seem scientist evidence toward."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
