@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Thomas",
+    "age": 21,
+    "address": {
+        "street": "Larry Mountain",
+        "city": "Rachelberg",
+        "state": "New Mexico",
+        "zip": "12491"
+    },
+    "contact": {
+        "phone": "001-212-769-9429x015",
+        "servicePhone": "800610491"
+    },
+    "birthday": "2004-21-04",
+    "ip": "36.39.93.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Many attorney fish along foreign hope recognize. Away fish Congress everything. Item manage relationship bill. Let but wind indeed most south.",
+        "bio": "Unit simple heart material green behavior. Window at likely lose bag."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
