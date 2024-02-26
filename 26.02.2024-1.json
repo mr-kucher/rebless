@@ -1,0 +1,25 @@
+{
+    "name": "Caroline Taylor",
+    "age": 48,
+    "address": {
+        "street": "Donald Road",
+        "city": "Riverabury",
+        "state": "Louisiana",
+        "zip": "51267"
+    },
+    "contact": {
+        "phone": "+1-616-331-9454x3804",
+        "servicePhone": "800143740"
+    },
+    "birthday": "1977-04-05",
+    "ip": "69.152.62.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Leave write attack design politics. Machine boy every what blood without image.\nPattern there local dream. Economic ago hospital rather age fire throughout. Agent type he else.",
+        "bio": "Choice kind cut at war whether four. Information bag cell mission politics coach.\nReady opportunity energy bill everything year. Standard because doctor factor."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
