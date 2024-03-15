@@ -1,0 +1,25 @@
+{
+    "name": "Gloria Robinson",
+    "age": 96,
+    "address": {
+        "street": "Lewis Manors",
+        "city": "North Tammybury",
+        "state": "Utah",
+        "zip": "37434"
+    },
+    "contact": {
+        "phone": "001-557-899-4233x082",
+        "servicePhone": "800166370"
+    },
+    "birthday": "1929-27-01",
+    "ip": "193.225.109.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Model yeah land bed deal tell beat. Worry point authority realize speech role.\nTruth because address explain set already enjoy. Get food large standard. Learn most human huge particular often.",
+        "bio": "Win only either lose threat back enjoy. According ground thing several card always senior over. Charge determine culture edge."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
