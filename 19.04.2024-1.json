@@ -1,0 +1,25 @@
+{
+    "name": "Randy Adams",
+    "age": 22,
+    "address": {
+        "street": "Flynn Crossroad",
+        "city": "Patrickshire",
+        "state": "Maryland",
+        "zip": "23550"
+    },
+    "contact": {
+        "phone": "+1-318-527-5052",
+        "servicePhone": "800420251"
+    },
+    "birthday": "2003-22-06",
+    "ip": "138.217.194.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Accept step push fill exist. Yet free not address career talk collection seat. Before theory set water quality word author.",
+        "bio": "Force debate lawyer watch attorney. Clear long better. Authority drug dark top take pretty what."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
