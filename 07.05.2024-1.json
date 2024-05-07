@@ -1,0 +1,25 @@
+{
+    "name": "Tyler Mcdaniel",
+    "age": 87,
+    "address": {
+        "street": "Kirby Ville",
+        "city": "Tinaview",
+        "state": "Indiana",
+        "zip": "31502"
+    },
+    "contact": {
+        "phone": "001-754-302-5600x2596",
+        "servicePhone": "800362294"
+    },
+    "birthday": "1938-22-10",
+    "ip": "214.25.159.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Send environment home power phone develop trade. Who actually tell series measure sound pass. Customer try collection medical.",
+        "bio": "Us cell hear Mr they north. Instead season race story hope pattern continue.\nAnyone enjoy him there. Power true scene before fine thousand."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
