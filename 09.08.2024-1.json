@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Benitez",
+    "age": 32,
+    "address": {
+        "street": "Stevens Pines",
+        "city": "Allisonville",
+        "state": "Oklahoma",
+        "zip": "18907"
+    },
+    "contact": {
+        "phone": "815.602.0713x5627",
+        "servicePhone": "800321569"
+    },
+    "birthday": "1993-21-02",
+    "ip": "30.25.216.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Miss material office painting. Picture pay other site seem general something.\nSomebody Democrat vote officer dream seem grow. Choose receive thus particular gas response.",
+        "bio": "Government what physical free sense present boy audience. Police same war enter. Friend collection contain sound against exist keep talk."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
