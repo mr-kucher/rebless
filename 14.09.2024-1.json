@@ -1,0 +1,25 @@
+{
+    "name": "Heather Reed",
+    "age": 14,
+    "address": {
+        "street": "Ryan Fork",
+        "city": "Port Joanna",
+        "state": "North Dakota",
+        "zip": "31169"
+    },
+    "contact": {
+        "phone": "+1-847-448-2475x1579",
+        "servicePhone": "800661633"
+    },
+    "birthday": "2011-20-11",
+    "ip": "19.214.125.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Natural civil imagine adult research campaign. Space college former.\nCatch position figure program know again. Source tend record song everyone poor side like. Movement toward while able lot.",
+        "bio": "Character point eye simply system skin unit. Without ask city shoulder any ahead. Culture within ahead successful wrong maybe."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
