@@ -1,0 +1,25 @@
+{
+    "name": "Robert Taylor",
+    "age": 70,
+    "address": {
+        "street": "Melissa Manor",
+        "city": "West Scott",
+        "state": "Maine",
+        "zip": "83749"
+    },
+    "contact": {
+        "phone": "001-708-617-1229x8354",
+        "servicePhone": "800771305"
+    },
+    "birthday": "1955-26-01",
+    "ip": "110.44.191.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Person threat deep ago. Have break much unit up analysis knowledge.\nSometimes interview however interesting clearly military. West sing realize only.",
+        "bio": "Our any tough feeling unit. Go day start each.\nEntire somebody study. Crime pull indicate note.\nAttorney employee really prevent home read. National professor above support."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
