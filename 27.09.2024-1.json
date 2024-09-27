@@ -1,0 +1,25 @@
+{
+    "name": "Tony Powers",
+    "age": 76,
+    "address": {
+        "street": "Austin Landing",
+        "city": "Port Sean",
+        "state": "Arkansas",
+        "zip": "87839"
+    },
+    "contact": {
+        "phone": "823-434-2474x028",
+        "servicePhone": "800300633"
+    },
+    "birthday": "1949-22-08",
+    "ip": "142.100.4.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Tree rise change energy another time writer. Suffer reason feel news consumer positive.",
+        "bio": "Factor fast suddenly out. Check discussion community. Yes method she office deal power available."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
