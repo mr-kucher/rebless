@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Webb",
+    "age": 2,
+    "address": {
+        "street": "Moore Trafficway",
+        "city": "Skinnerfurt",
+        "state": "Vermont",
+        "zip": "47045"
+    },
+    "contact": {
+        "phone": "+1-644-472-7849",
+        "servicePhone": "800784364"
+    },
+    "birthday": "2023-29-09",
+    "ip": "77.111.206.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Raise garden get her PM baby interest. Again fish air game relate big pretty. Key issue fish audience similar.",
+        "bio": "Officer ok couple pressure.\nBuild structure yet member. Toward practice issue test make plant. Few Democrat piece listen four.\nApply fear her environment behavior weight. Medical main just two land."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
