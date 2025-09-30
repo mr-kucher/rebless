@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Murphy",
+    "age": 5,
+    "address": {
+        "street": "Ashley Valleys",
+        "city": "West Ryanfort",
+        "state": "Oregon",
+        "zip": "61689"
+    },
+    "contact": {
+        "phone": "784.299.9709x4950",
+        "servicePhone": "800740059"
+    },
+    "birthday": "2020-17-07",
+    "ip": "46.33.20.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Human might unit business let. Strategy amount own need. Whom evidence administration suggest girl.\nQuickly camera million technology. Environment door coach.\nMuch miss describe medical though into.",
+        "bio": "Ahead tree degree station attention almost air. Imagine describe pull tonight site red.\nPoor now now difference middle. Exist hospital specific watch guy hit strong."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}

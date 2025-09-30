@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Parker",
+    "age": 54,
+    "address": {
+        "street": "Miller Rapid",
+        "city": "Riveraburgh",
+        "state": "Florida",
+        "zip": "12591"
+    },
+    "contact": {
+        "phone": "001-766-804-5552x0750",
+        "servicePhone": "800789443"
+    },
+    "birthday": "1971-20-12",
+    "ip": "37.97.137.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Three consider long stay. Space Mrs again. Recently price tonight sport realize on.\nBoth also thank area. Rock set kid television rate. Performance dream federal race time.",
+        "bio": "Specific option over per need fish. Window hot later almost within agent especially kid."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}

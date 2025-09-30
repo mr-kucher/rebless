@@ -1,0 +1,25 @@
+{
+    "name": "Cameron Rose",
+    "age": 62,
+    "address": {
+        "street": "Mary Wall",
+        "city": "Martinezberg",
+        "state": "Virginia",
+        "zip": "57822"
+    },
+    "contact": {
+        "phone": "+1-329-239-3201x7976",
+        "servicePhone": "800937109"
+    },
+    "birthday": "1963-19-09",
+    "ip": "158.28.240.15",
+    "foo": "bar",
+    "profile": {
+        "about": "None deep poor perform among. Least fine political evening gun leg laugh. Hope author wife a attack lot.",
+        "bio": "Identify hundred knowledge drive every.\nLife special leave performance crime rate store. Modern affect assume military. Eye write believe different available head."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}

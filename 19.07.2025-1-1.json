@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Williams",
+    "age": 17,
+    "address": {
+        "street": "Kimberly Branch",
+        "city": "Aaronborough",
+        "state": "Missouri",
+        "zip": "24074"
+    },
+    "contact": {
+        "phone": "001-464-788-7848x3536",
+        "servicePhone": "800351930"
+    },
+    "birthday": "2008-06-11",
+    "ip": "183.207.222.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Few figure leader early final indeed central. Task record open only total soon.",
+        "bio": "Catch oil born security. Media window modern center cut in those sure. Never group rest system step interest enough. Cup executive hope author among operation little member."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
