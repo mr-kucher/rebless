@@ -1,0 +1,25 @@
+{
+    "name": "Derek Gregory",
+    "age": 73,
+    "address": {
+        "street": "Wheeler Fall",
+        "city": "East Jeffery",
+        "state": "Illinois",
+        "zip": "93379"
+    },
+    "contact": {
+        "phone": "202-413-1845x569",
+        "servicePhone": "800086778"
+    },
+    "birthday": "1952-31-03",
+    "ip": "38.207.166.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Later less able recent full company media through. Smile yeah minute against deal so surface.\nClear may both have total project. Low middle meeting. Training get buy develop hope much.",
+        "bio": "Reality worker play activity rule field. Eight ball not yard. Practice put return some several.\nRecently build effort kind. Mrs forget anyone must husband participant lose."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
