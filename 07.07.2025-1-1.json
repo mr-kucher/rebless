@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Bailey",
+    "age": 1,
+    "address": {
+        "street": "Martin View",
+        "city": "West Angelashire",
+        "state": "Maryland",
+        "zip": "13594"
+    },
+    "contact": {
+        "phone": "495-715-0585x3474",
+        "servicePhone": "800551435"
+    },
+    "birthday": "2024-06-12",
+    "ip": "48.90.121.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Treat make act future investment only church. Race you sound plant kitchen. Game western deal arm catch television ground.",
+        "bio": "Reality marriage shake decision difficult and respond. Of toward mind involve continue environmental.\nAmong religious old full. Health future director wonder mind operation computer."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
