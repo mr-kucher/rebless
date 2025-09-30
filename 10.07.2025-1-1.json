@@ -1,0 +1,25 @@
+{
+    "name": "Tamara Hull",
+    "age": 70,
+    "address": {
+        "street": "Rodriguez Isle",
+        "city": "Leeshire",
+        "state": "Wyoming",
+        "zip": "31107"
+    },
+    "contact": {
+        "phone": "346.808.0821x0855",
+        "servicePhone": "800024716"
+    },
+    "birthday": "1955-05-05",
+    "ip": "14.80.37.56",
+    "foo": "bar",
+    "profile": {
+        "about": "According quality rest probably company draw. Must west small around decade station seem. Watch cultural consider.",
+        "bio": "Institution in read note.\nEnter beyond old history. Glass stand exist respond follow citizen act number. Mention popular than school late radio result."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
