@@ -1,0 +1,25 @@
+{
+    "name": "Barbara Nixon",
+    "age": 97,
+    "address": {
+        "street": "Kayla Glens",
+        "city": "North Saraberg",
+        "state": "Indiana",
+        "zip": "31208"
+    },
+    "contact": {
+        "phone": "984.871.3311x507",
+        "servicePhone": "800669107"
+    },
+    "birthday": "1928-05-09",
+    "ip": "49.148.7.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Need officer policy how want.\nWhich impact low number. Card contain no protect ground.",
+        "bio": "Movie onto poor together never. Message point power you poor behavior so may. Wait building style section blue garden senior. Prove hear likely catch mouth cause."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}

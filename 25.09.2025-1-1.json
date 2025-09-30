@@ -1,0 +1,25 @@
+{
+    "name": "Loretta Bradley",
+    "age": 28,
+    "address": {
+        "street": "Aaron Lakes",
+        "city": "Burgesston",
+        "state": "Idaho",
+        "zip": "63805"
+    },
+    "contact": {
+        "phone": "(746)558-0283",
+        "servicePhone": "800162363"
+    },
+    "birthday": "1997-12-04",
+    "ip": "209.182.70.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Sell once future stuff large get well eight. Act traditional star while customer support woman.\nRange mouth to spring pattern central size. Paper however much poor.",
+        "bio": "Fly beautiful early father. Economic somebody development prevent weight indicate. Turn hour too cold voice above.\nRange just tough what talk article. Statement yet attack impact manage there."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
