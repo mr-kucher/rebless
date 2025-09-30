@@ -1,0 +1,25 @@
+{
+    "name": "Amber Thompson",
+    "age": 54,
+    "address": {
+        "street": "Robertson Spurs",
+        "city": "West Justin",
+        "state": "Nevada",
+        "zip": "84887"
+    },
+    "contact": {
+        "phone": "(597)926-3151",
+        "servicePhone": "800334427"
+    },
+    "birthday": "1971-31-03",
+    "ip": "209.84.49.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Radio prepare successful role chair market.",
+        "bio": "Need party product since guess. Begin easy serve term politics appear.\nHour street whole course coach before. Sound however team some require media box."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
